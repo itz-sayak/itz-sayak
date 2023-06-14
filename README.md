@@ -36,8 +36,8 @@
   <br>
  GitHub Stats
 
-![Sayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&count_private=true&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=dracula) 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-sayak&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-sayak&theme=dracula)
