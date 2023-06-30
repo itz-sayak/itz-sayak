@@ -31,6 +31,7 @@
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/metasploit.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/tensorflow.png"/>
 
 <summary>📈 Stats</summary>
   <br>
