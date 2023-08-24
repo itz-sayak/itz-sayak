@@ -46,7 +46,7 @@
 
 ## Let's Collaborate!
 
-I'm always open to collaborations and working on exciting projects. If you have any ideas or would like to contribute to any of my projects, feel free to reach out to me. Let's connect and create something awesome together!
+I'm always open to collaborations and working on exciting projects on Data Science, Machine Learning, Deep Learning, Android App development. If you have any ideas or would like to contribute to any of my projects, feel free to reach out to me. Let's connect and create something awesome together!
 
 ## Open Source Philosophy
 
