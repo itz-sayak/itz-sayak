@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=itz-sayak&style=for-the-badge)
 <p align="center">
 <a href="https://github.com/itz-sayak">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sayak+Dutta;Electrical Engineer+%7C+NIT SIKKIM+%7C+GSSOC'23;AI+%7C+Computer+Vision+%7C+Bots%7C+Software Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sayak+Dutta;Computer Engineer+%7C+IIT Gandhinagar+%7C+GSSOC'23;AI+%7C+Computer+Vision+%7C+Bots%7C+Software Development" alt="Typing SVG" />
 </a>
 <br/>
 
