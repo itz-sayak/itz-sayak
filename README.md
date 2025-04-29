@@ -20,12 +20,22 @@
   </a>
 </p>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-stats-alpha.vercel.app/api?username=itz-sayak&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://streak-stats.demolab.com?user=itz-sayak&theme=tokyonight&hide_border=true&border_radius=20">
+    <img src="https://streak-stats.demolab.com?user=itz-sayak&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak Stats" height="180"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/itz-sayak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sayak&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages"/>
+  </a>
+</p>
+
 
 ---
 
