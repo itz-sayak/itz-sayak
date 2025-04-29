@@ -32,7 +32,7 @@
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" width="60" alt="Java"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" alt="PyTorch"/>
   <img src="https://img.icons8.com/color/144/000000/python.png" width="60" alt="Python"/>
   <img src="https://img.icons8.com/color/144/000000/html-5.png" width="60" alt="HTML"/>
   <img src="https://img.icons8.com/color/144/000000/css3.png" width="60" alt="CSS"/>
@@ -45,6 +45,7 @@
   <img src="https://img.icons8.com/color/144/000000/metasploit.png" width="60" alt="Metasploit"/>
   <img src="https://img.icons8.com/color/144/000000/tensorflow.png" width="60" alt="TensorFlow"/>
 </p>
+
 
 ---
 
