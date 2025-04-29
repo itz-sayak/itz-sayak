@@ -6,7 +6,7 @@
 <!-- Animated Typing Header -->
 <h2 align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&center=true&multiline=true&width=600&height=80&lines=Sayak+Dutta;Computer+Engineer+@+IIT+Gandhinagar;AI+%7C+Computer+Vision+%7C+Bots+%7C+Software+Development;GSSOC'23+Contributor" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&center=true&multiline=true&width=600&height=80&lines=Sayak+Dutta;Computer+Engineer+@+IIT+Gandhinagar;AI+%7C+Computer+Vision+%7C+AI+Agents+%7C+Software+Development;GSSOC'23+Contributor" alt="Typing SVG"/>
   </a>
 </h2>
 
