@@ -23,15 +23,15 @@
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/itz-sayak">
-    <img src="https://streak-stats.demolab.com?user=itz-sayak&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak Stats" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=itz-sayak&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="180"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sayak&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sayak&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages"/>
   </a>
 </p>
 
@@ -61,9 +61,9 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-sayak&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-sayak&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-sayak&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-sayak&theme=dracula" />
 </p>
 
 ---
