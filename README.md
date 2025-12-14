@@ -23,15 +23,17 @@
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/itz-sayak">
-    <img src="https://streak-stats.demolab.com?user=itz-sayak&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="180"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=itz-sayak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sayak&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=itz-sayak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Contributor Stats" height="195"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/itz-sayak">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-sayak&bg_color=0d1117&color=8e96ff&line=4e8df5&point=f0f6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
   </a>
 </p>
 
@@ -101,4 +103,3 @@ Feel free to reach out if you share any of these interests!
 ---
 
 ### ✨ _Let’s connect, collaborate, and make an impact together!_
-
