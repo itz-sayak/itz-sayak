@@ -23,17 +23,10 @@
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-profile-trophy.vercel.app/?username=itz-sayak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e96ff&icon_color=8e96ff&text_color=ffffff" alt="GitHub Stats" height="195"/>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/itz-sayak">
-    <img src="https://github-contributor-stats.vercel.app/api?username=itz-sayak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Contributor Stats" height="195"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-sayak&bg_color=0d1117&color=8e96ff&line=4e8df5&point=f0f6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-sayak&theme=tokyonight&hide_border=true&background=0d1117&ring=8e96ff&fire=8e96ff&currStreakLabel=8e96ff" alt="GitHub Streak" height="195"/>
   </a>
 </p>
 
