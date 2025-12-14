@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/sayak-dutta-007abcdefg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:b200122@nitsikkim.ac.in">
+  <a href="mailto:sayak.dutta@iitgn.ac.in">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
