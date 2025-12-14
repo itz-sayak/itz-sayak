@@ -1,24 +1,40 @@
-<!-- Profile Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itz-sayak&style=for-the-badge" alt="Profile views"/>
-</p>
+<div align="center">
 
-<!-- Animated Typing Header -->
-<h2 align="center">
-  <a href="https://github.com/itz-sayak">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&center=true&multiline=true&width=600&height=80&lines=Sayak+Dutta;Computer+Engineer+@+IIT+Gandhinagar;AI+%7C+Computer+Vision+%7C+AI+Agents+%7C+Software+Development;GSSOC'23+Contributor" alt="Typing SVG"/>
-  </a>
-</h2>
+![](https://komarev.com/ghpvc/?username=itz-sayak&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/itz-sayak?label=Followers&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/itz-sayak?label=Stars&style=for-the-badge)
 
-<!-- Contact Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayak-dutta-007abcdefg/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:sayak.dutta@iitgn.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+</div>
+
+---
+
+<picture>
+<a href="https://github.com/itz-sayak.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/itz-sayak.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
+
+```js
+"use strict";
+import { Person } from "india";
+
+new Person({
+  name: "Sayak Dutta",
+  title: "Computer Engineer",
+  institution: "IIT Gandhinagar",
+  email: "sayak.dutta@iitgn.ac.in",
+  specialization: ["AI", "Computer Vision", "AI Agents", "Software Development"],
+  contributor: "GSSOC'23",
+}).introduce();
+```
+
+```cmd
+~/sayak-dutta$ node index.js
+Hi, my name is Sayak Dutta, I'm a Computer Engineer at IIT Gandhinagar.
+I specialize in AI, Computer Vision, AI Agents, and Software Development.
+```
+
+---
+
+<div align="center">
 
 <!-- GitHub Stats Section -->
 <p align="center">
@@ -30,35 +46,31 @@
   </a>
 </p>
 
+</div>
 
 ---
 
-## 🚀 Skills
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Tech Stack & Skills🧑‍💻</h3></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" alt="PyTorch"/>
-  <img src="https://img.icons8.com/color/144/000000/python.png" width="60" alt="Python"/>
-  <img src="https://img.icons8.com/color/144/000000/html-5.png" width="60" alt="HTML"/>
-  <img src="https://img.icons8.com/color/144/000000/css3.png" width="60" alt="CSS"/>
-  <img src="https://img.icons8.com/color/144/000000/git.png" width="60" alt="Git"/>
-  <img src="https://img.icons8.com/color/144/000000/github.png" width="60" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/144/000000/linux.png" width="60" alt="Linux"/>
-  <img src="https://img.icons8.com/color/144/000000/mongodb.png" width="60" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/144/000000/mysql-logo.png" width="60" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/144/000000/amazon-web-services.png" width="60" alt="AWS"/>
-  <img src="https://img.icons8.com/color/144/000000/metasploit.png" width="60" alt="Metasploit"/>
-  <img src="https://img.icons8.com/color/144/000000/tensorflow.png" width="60" alt="TensorFlow"/>
+<a href="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,html,css,git,github,linux,mongodb,mysql,aws,docker,vscode&perline=5">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,html,css,git,github,linux,mongodb,mysql,aws,docker,vscode&perline=5" />
+</a>
 </p>
-
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-sayak&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-sayak&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-sayak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-sayak&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-sayak&theme=tokyonight" width="400" />
 </p>
 
 ---
@@ -67,32 +79,58 @@
 
 I'm always eager to work on meaningful and impactful projects in:
 
-- 🔬 **Data Science**
-- 🧠 **LLMs and CV**
+- 🔬 **Data Science & Machine Learning**
+- 🧠 **Large Language Models & Computer Vision**
 - 📱 **Android App Development**
-- 🤖 **AI Agents & Bots**
+- 🤖 **AI Agents & Intelligent Bots**
 
-If you're passionate about any of these or have an idea worth exploring, let’s collaborate and build something amazing together!
+If you're passionate about any of these or have an idea worth exploring, let's collaborate and build something amazing together!
 
 ---
 
 ## 🌐 Open Source Philosophy
 
 - 💡 Open to contributions and collaborative innovation
-- 🌱 Contributor at **GSSOC'23**
+- 🌱 Active contributor at **GSSOC'23**
+- 🚀 Believer in the power of community-driven development
 
 ---
 
 ## 🎯 Interests Beyond Tech
 
-When I’m not coding, I enjoy:
+When I'm not coding, I enjoy:
 
-- 🥋 Taekwondo & MMA
-- 🏸 Playing Badminton
-- 💬 Chatting about sports, fitness, and tech
+- 🥋 **Taekwondo & MMA** - Discipline and fitness combined
+- 🏸 **Playing Badminton** - Speed and strategy on court
+- 💬 **Chatting about sports, fitness, and tech** - Always up for a good conversation!
 
 Feel free to reach out if you share any of these interests!
 
 ---
 
-### ✨ _Let’s connect, collaborate, and make an impact together!_
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayak-dutta-007abcdefg/)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayak.dutta@iitgn.ac.in)
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-sayak/itz-sayak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-sayak/itz-sayak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itz-sayak/itz-sayak/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+<div align="center">
+    Made with ❤️ by <a href="https://github.com/itz-sayak" target="_blank">Sayak Dutta</a>
+</div>
+
+---
+
+### ✨ _Let's connect, collaborate, and make an impact together!_ ✨
