@@ -4,6 +4,15 @@
 
 </div>
 
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayak-dutta-007abcdefg/)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayak.dutta@iitgn.ac.in)
+
+</div>
+
 ---
 
 <picture>
@@ -41,9 +50,7 @@ I specialize in AI, Computer Vision, AI Agents, and Software Development.
   <a href="https://github.com/itz-sayak">
     <img src="https://github-readme-stats.vercel.app/api?username=itz-sayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e96ff&icon_color=8e96ff&text_color=ffffff" alt="GitHub Stats" height="195"/>
   </a>
-  <a href="https://github.com/itz-sayak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-sayak&theme=tokyonight&hide_border=true&background=0d1117&ring=8e96ff&fire=8e96ff&currStreakLabel=8e96ff" alt="GitHub Streak" height="195"/>
-  </a>
+  
 </p>
 
 </div>
@@ -108,14 +115,6 @@ Feel free to reach out if you share any of these interests!
 
 ---
 
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayak-dutta-007abcdefg/)
-[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayak.dutta@iitgn.ac.in)
-
-</div>
 
 ---
 
