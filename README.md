@@ -88,8 +88,8 @@ I'm always eager to work on meaningful and impactful projects in:
 
 - 🔬 **Data Science & Machine Learning**
 - 🧠 **Large Language Models & Computer Vision**
-- 📱 **Android App Development**
-- 🤖 **AI Agents & Intelligent Bots**
+- 📱 **Software Development**
+
 
 If you're passionate about any of these or have an idea worth exploring, let's collaborate and build something amazing together!
 
